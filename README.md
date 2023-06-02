@@ -29,7 +29,7 @@ English
 
 <div align="center">
 <div>
-<img src="assets/screenshots/ss1.jpg" width="30%" />
+<img src="https://github.com/zamansheikh/chatbot/blob/3191559d6211be5f36bed72678494ec9744f0e39/assets/screenshots/Screenshot_20230602-155928_chatbot.png" width="30%" />
 </div>
 </div>
 
