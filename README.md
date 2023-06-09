@@ -27,9 +27,9 @@ English
 
 <div align="center">
 <div>
-<img src="https://github.com/zamansheikh/chatbot/blob/3191559d6211be5f36bed72678494ec9744f0e39/assets/screenshots/Screenshot_20230602-155928_chatbot.png" width="30%" />
-<img src="assets/screenshots/Screenshot_20230607-112706_Chat Bot.png" width="30%" />
-	<img src="assets/screenshots/1686131817134.jpg" width="30%" />
+  <img src="assets/screenshots/ss1.jpg" width="30%" />
+  <img src="assets/screenshots/ss2.jpgng" width="30%" />
+  <img src="assets/screenshots/ss3.jpg" width="30%" />
 </div>
 </div>
 
@@ -81,7 +81,7 @@ Contributions are welcome!
 
 	
 >**Note**
->
+
 >For submitting bug reports, feature requests, questions, or any other ideas to improve, please read [CONTRIBUTING.md](https://github.com/zamansheikh/chatbot/blob/main/CONTRIBUTING.md) for instructions and guidelines first.
 
 
@@ -95,7 +95,7 @@ Youtube Tutorial 😁
 [![GitHub](https://img.shields.io/github/license/JunkFood02/Seal?style=for-the-badge)](https://github.com/JunkFood02/Seal/blob/main/LICENSE)
 
 >**Warning**
->
+
 >Except for the source code licensed under the GPLv3 license,
 >all other parties are prohibited from using ChatBot's name as a downloader app,
 >and the same is true for ChatBot's derivatives.
