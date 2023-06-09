@@ -28,7 +28,7 @@ English
 <div align="center">
 <div>
   <img src="assets/screenshots/ss1.jpg" width="30%" />
-  <img src="assets/screenshots/ss2.jpgng" width="30%" />
+  <img src="assets/screenshots/ss2.jpg" width="30%" />
   <img src="assets/screenshots/ss3.jpg" width="30%" />
 </div>
 </div>
