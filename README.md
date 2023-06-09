@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="" src="assets/icon/chatboticon.jpg"  width=160 height=160  align="center">
+<img width="" src="assets/icon/ioschatboticon.png"  width=160 height=160  align="center">
 
 # ChatBot
 
